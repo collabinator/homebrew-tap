@@ -1,8 +1,8 @@
 class Mdbub < Formula
   desc "Terminal-first interactive mindmap CLI tool"
   homepage "https://github.com/collabinator/mdbubbles"
-  url "https://github.com/collabinator/mdbubbles/archive/refs/tags/v0.3.12.tar.gz"
-  sha256 "44d4c4d06b50d8da662abe21bd5f940053a9501920a79facb251e087dbc274cd"
+  url "https://github.com/collabinator/mdbubbles/archive/refs/tags/v0.3.17.tar.gz"
+  sha256 "e1c3ae5ee38bab9aba04648398b175780fc9971026ca839adc57beffa53ee298"
   license "Apache-2.0"
 
   depends_on "python@3.11"
