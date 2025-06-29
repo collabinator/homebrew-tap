@@ -1,4 +1,4 @@
   resource "mdbub" do
-    url "https://files.pythonhosted.org/packages/6f/99/af0a8c635e2c16c973ad316ce7dd0eb02ee0553431cd3a70ecd9c076d088/mdbub-0.3.12.tar.gz"
-    sha256 "bc9e72af833a23d6049b6743a056eed20d662fed921c664c9b4b4400ea3ae0e2"
+    url "https://files.pythonhosted.org/packages/8f/48/e9081eef23cde31ba1f70dc50ce588f8f500dd74745d0883661e6ed21132/mdbub-0.3.17.tar.gz"
+    sha256 "8d84acb7b1ffb446a7d88bb26aaab46bf4eeb6c764c2178c3d3e28672ff624ec"
   end
